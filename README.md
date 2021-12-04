@@ -1,2 +1,2 @@
-# terminus
-Terminus: Decentralized authorization
+# terminus: decentralized authorization
+
